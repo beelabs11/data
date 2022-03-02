@@ -1,15 +1,15 @@
 {
     "name": "AVATAR TEST UPDATE",
-    "symbol": "NB",
+    "symbol": "",
     "description": "Checking if it updates.",
     "seller_fee_basis_points": 700,
     "image": "https://raw.githubusercontent.com/beelabs11/data/main/dvgvghjoise.png",
     "attributes": [
-        {"Caste": "Layer-1", "value": "Arain"}
+        {"trait_type": "Caste", "value": "Arain"}
     ],
     "properties": {
         "creators": [{"address": "5bA8UaUAZh9hAJp9Wd2cS3zYMZC1y1B43AcwEpx8QvyC", "share": 100}],
-        "files": [{"uri": "0.png", "type": "image/png"}]
+        "files": [{"uri": "https://raw.githubusercontent.com/beelabs11/data/main/dvgvghjoise.png", "type": "image/png"}]
     },
     "collection": {"name": "SOLBEE AVATARS", "family": "AVATARS"}
 }
