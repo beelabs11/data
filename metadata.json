@@ -1,11 +1,11 @@
 {
-    "name": "AVATAR TEST UPDATE",
+    "name": "SOLBEE AVATAR",
     "symbol": "",
-    "description": "Checking if it updates.",
+    "description": "Legendary Queen from Solbee Avatar collection. Reveal will be done later once mint closes. Jump into discord to know more.",
     "seller_fee_basis_points": 700,
     "image": "https://raw.githubusercontent.com/beelabs11/data/main/dvgvghjoise.png",
     "attributes": [
-        {"trait_type": "Caste", "value": "Arain"}
+        {"trait_type": "Rarity", "value": "Legendary"}
     ],
     "properties": {
         "creators": [{"address": "5bA8UaUAZh9hAJp9Wd2cS3zYMZC1y1B43AcwEpx8QvyC", "share": 100}],
